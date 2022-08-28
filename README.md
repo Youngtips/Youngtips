@@ -16,3 +16,9 @@ pkg install git
 pkg install python
 
 git clone https://github.com/youngtips/youngtips.git
+
+python Waspam.py
+
+
+
+##thank me if it works🥺
